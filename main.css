@@ -72,9 +72,10 @@ main .container .content .text {
 }
 
 main .container .content .text h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     color: hsl(300, 43%, 22%);
     margin-bottom: 2rem;
+    font-weight: 700;
 }
 
 main .container .content .text p {
